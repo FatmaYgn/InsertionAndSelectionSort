@@ -1,7 +1,7 @@
 # InsertionAndSelectionSort
 
 ## Proje 1.1
-[22,27,16,2,18,6] -> Insertion Sort
+[22,27,16,2,18,6] -> **Insertion Sort**
 
 Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
 
@@ -29,7 +29,7 @@ Son sıralamamız bu şekilde olur.
 **Time Complexity**: Dizi sıralandıktan sonra 18 sayısı aşağıdaki case'lerden hangisinin kapsamına girer?
 ```
 [2,6,16,18,22,27] 
-Dizimizin sıralanmış halinde 18 sayısı 5. sıradadır. Yani bu bir average case'dir.
+Dizimizin sıralanmış halinde 18 sayısı 4. sıradadır. Yani bu bir average case'dir.
 ```
 
 ## Proje 1.2
